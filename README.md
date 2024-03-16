@@ -5,7 +5,6 @@
 
 List of Produuts are loading using React infinite scroll componen 
 
-## Available Scripts
 
 In the project directory, you can run:
 
